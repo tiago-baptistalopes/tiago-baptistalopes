@@ -9,11 +9,11 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 <h3>  Shelf OS </h3>
 
-Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
+**Computer-vision powered shelf management for produce**. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
 
 · Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning
 
-Well, to be honest, a Claude Code + Github + VSCode + HTML primer.
+<h6> Well, to be honest, a Claude Code + Github + VSCode + HTML primer. </h6>
 
 The platform uses computer vision to analyse store shelves, compare product placement against planograms, estimate stock availability, and identify restocking opportunities.
 
