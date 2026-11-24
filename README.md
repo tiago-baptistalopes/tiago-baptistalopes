@@ -1,7 +1,6 @@
 ##
 <h1> Tiago Baptista Lopes  </h1>
 
-
  **· First-year MSc in Finance** @ [Nova SBE](https://www.novasbe.unl.pt/pt/) with an interest in Macroeconomics, Financial Markets.
 
 Trying to figure out computer science with the help of artificial intelligence.
@@ -12,7 +11,9 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
 
+> · Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning
 
+Well, to be honest, a Claude Code + Github + VSCode + HTML primer.
 
 
 
