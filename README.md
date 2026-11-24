@@ -14,7 +14,7 @@ Computer-vision powered shelf management for produce. Third place of the [Sensei
 
 <img src="/blob/main/shelfsight_cover_slide_hd.gif" width="250" height="250"/>
 
-![ShelfOS gif](https://github.com/tiago-baptistalopes/tiago-baptistalopes/blob/main/shelfsight_cover_slide_hd.gif)
+
 
 
 
