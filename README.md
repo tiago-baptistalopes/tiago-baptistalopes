@@ -13,7 +13,7 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 · Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning
 
-<h6> Well, to be honest, a Claude Code + Github + VSCode + HTML primer. </h6>
+<h6> Well, <em> to be honest </em>, a Claude Code + Github + VSCode + HTML primer. </h6>
 
 The platform uses computer vision to analyse store shelves, compare product placement against planograms, estimate stock availability, and identify restocking opportunities.
 
