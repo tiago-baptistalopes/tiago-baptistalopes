@@ -13,7 +13,7 @@ Trying to figure out computer science with the help of artificial intelligence.
 Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
 
 
-
+![ShelfOS gif](https://github.com/tiago-baptistalopes/tiago-baptistalopes/blob/main/shelfsight_cover_slide_hd.gif)
 
 
 
