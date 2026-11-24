@@ -11,11 +11,22 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
 
-> · Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning
+· Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning
 
 Well, to be honest, a Claude Code + Github + VSCode + HTML primer.
 
+The platform uses computer vision to analyse store shelves, compare product placement against planograms, estimate stock availability, and identify restocking opportunities.
 
+Highlights
+
+· Visual feature extraction using DINOv3 embeddings.
+· Patch-level computer vision analysis.
+· Reference-image comparison and product placement detection.
+· Structured planogram analysis and stock estimation.
+· Interactive visual dashboard and automated evaluation tools.
+
+<br>
+<br>
 
 <p align = "center">
 <img src="shelfsight_cover_slide_hd.gif" width="250" height="250"/>
