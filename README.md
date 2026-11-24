@@ -1,4 +1,22 @@
-## Hi there 👋
+##
+<h1> Tiago Baptista Lopes  </h1>
+
+
+ **· First-year MSc in Finance** @ [Nova SBE](https://www.novasbe.unl.pt/pt/) with an interest in Macroeconomics, Financial Markets.
+
+Trying to figure out computer science with the help of artificial intelligence.
+
+<h2>  Featured Projects </h2>
+
+<h3>  Shelf OS </h3>
+
+Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
+
+
+
+
+
+
 
 <!--
 **tiago-baptistalopes/tiago-baptistalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
