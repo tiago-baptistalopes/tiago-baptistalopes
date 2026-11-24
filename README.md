@@ -33,6 +33,9 @@ The platform uses computer vision to analyse store shelves, compare product plac
      Rendered shelf repositions,<em> neat.</em>
 </p>
 
+[View the source code](https://github.com/franciscogfsm/ShelfOS)
+[Here's a demo](https://shelfos-demo.vercel.app/)
+
 
 
 
