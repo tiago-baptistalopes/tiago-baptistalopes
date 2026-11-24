@@ -32,8 +32,10 @@ The platform uses computer vision to analyse store shelves, compare product plac
 <img src="shelfsight_cover_slide_hd.gif" width="250" height="250"/>
      Rendered shelf repositions,<em> neat.</em>
 </p>
-
+<br>
+<br>
 [View the source code](https://github.com/franciscogfsm/ShelfOS)
+<br>
 [Here's a demo](https://shelfos-demo.vercel.app/)
 
 
