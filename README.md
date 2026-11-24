@@ -12,7 +12,7 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 Computer-vision powered shelf management for produce. Third place of the [Sensei](https://www.sensei.tech/) challenge at JunctionX Lisbon 2026
 
-<img src="/shelfsight_cover_slide_hd.gif)" width="250" height="250"/>
+<img src="shelfsight_cover_slide_hd.gif" width="250" height="250"/>
 
 
 
