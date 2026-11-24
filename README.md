@@ -18,8 +18,7 @@ Computer-vision powered shelf management for produce. Third place of the [Sensei
 
 <p align = "center">
 <img src="shelfsight_cover_slide_hd.gif" width="250" height="250"/>
-<br>
-Rendered shelf repositions,<em>neat.</em>
+     Rendered shelf repositions,<em> neat.</em>
 </p>
 
 
