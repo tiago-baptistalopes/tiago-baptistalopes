@@ -17,7 +17,7 @@ Trying to figure out computer science with the help of artificial intelligence.
 
 The platform uses computer vision to analyse store shelves, compare product placement against planograms, estimate stock availability, and identify restocking opportunities.
 
-Highlights
+<h5> Highlights </h5>
 
 · Visual feature extraction using DINOv3 embeddings.
 · Patch-level computer vision analysis.
